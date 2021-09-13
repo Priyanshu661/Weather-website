@@ -1,4 +1,4 @@
-console.log("Js file is loading");
+
 
 
 const weatherForm=document.querySelector("form");
